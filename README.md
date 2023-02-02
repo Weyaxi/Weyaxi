@@ -80,7 +80,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Weyaxi/Weyaxi/blob/main/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Weyaxi/Weyaxi/blob/main/snake.svg" alt="Snake animation" />
 
 ###
 
