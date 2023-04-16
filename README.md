@@ -40,7 +40,7 @@
 
 ###
 
-<h1 align="left">Databese</h1>
+<h1 align="left">Database</h1>
 
 ###
 
